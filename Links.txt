@@ -1,3 +1,6 @@
+Hardware DOC
+https://cdn-shop.adafruit.com/datasheets/WS2812.pdf
+http://www.jarzebski.pl/arduino/komponenty/diody-led-ze-sterownikem-ws2811-ws2812.html
 Worth to know
 https://en.wikipedia.org/wiki/Non-return-to-zero
 
